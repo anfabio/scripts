@@ -1,0 +1,5 @@
+Audio,*.mp3 -or -iname *.wma -or -iname *.aac -or -iname *.flac -or -iname *.cda -or -iname *.m4a -or -iname *.ogg
+Video,*.avi -or -iname *.mp4 -or -iname *.flv -or -iname *.rmvb -or -iname *.wmv
+Fotos,DSC* -or -iname _DSC* -or -iname IMG* -or -iname _IMG*
+Programas Executaveis,*.exe -or -iname *.com
+Outros,AlbumArt* -or -iname Folder.jpg -or -iname *.cbr -or -iname *.vdi -or -iname *.nrg -or -iname *.iso
